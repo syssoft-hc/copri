@@ -1,0 +1,14 @@
+# editor files and directories
+.vscode/
+
+# Executables
+copri_cuda
+copri_pthreads_atomic
+copri_pthreads_isolated
+copri_seq_unix
+copri_seq_marvin
+
+# Other stuff
+hello*
+.DS_Store
+
