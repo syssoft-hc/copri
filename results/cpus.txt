@@ -1,0 +1,9 @@
+MacSix:
+Mac Pro (Late 2013), Monterey 12.3.1
+CPU 3,5 GHz 6-Core Intel Xeon E5
+32 GB RAM 1866 MHz DDR3
+
+Marvin:
+PC (Late 2020), Linux 5.4.0-110-generic #124-Ubuntu SMP Thu Apr 14 19:46:19 UTC 2022
+CPU Intel(R) Core(TM) i9-7900X CPU @ 3.30GHz, 10(20) Cores
+64 GB RAM

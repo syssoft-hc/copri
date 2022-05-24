@@ -1,0 +1,1 @@
+nvcc -O2 -o f f.cu
